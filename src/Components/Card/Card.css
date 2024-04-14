@@ -1,0 +1,14 @@
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid green;
+  height: auto;
+}
+.img {
+  height: 100px;
+  width: 100px;
+}
+.card {
+  border: 1px solid red;
+}
